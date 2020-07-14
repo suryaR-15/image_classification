@@ -1,5 +1,7 @@
 # image_classification
 
-Image classification using TensorFlow - in progress.
+Image classification using TensorFlow:
 
-Project will be updated soon.
+1. MNIST handwritten digits database - mnist_classifier.py achieves a classification accuracy of ~ 98%
+
+Other databases being trained with and without transfer learning, will be updated soon.
